@@ -5,7 +5,7 @@
     <description><![CDATA[外注先企業の位置情報を追加しました。<br>ピンの色は風車機種に対応しています。<br>風車名を前方一致か、SC名で検索できます。<br>運転開始前および撤去を確認した風車は除外しています。情報は順次更新予定です。]]></description>
     <Style id="icon-1498-0288D1-labelson">
       <IconStyle>
-        <color>ffd18802</color>
+        <color>ff0000ff</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -14,7 +14,7 @@
     </Style>
     <Style id="icon-1498-757575-labelson">
       <IconStyle>
-        <color>ff757575</color>
+        <color>ff0066ff</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -23,7 +23,7 @@
     </Style>
     <Style id="icon-1603-0F9D58-labelson">
       <IconStyle>
-        <color>ff589d0f</color>
+        <color>ff00ffff</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -32,7 +32,7 @@
     </Style>
     <Style id="icon-1899-01579B-labelson">
       <IconStyle>
-        <color>ff9b5701</color>
+        <color>ff00ff66</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -42,7 +42,7 @@
     </Style>
     <Style id="icon-1899-097138-labelson">
       <IconStyle>
-        <color>ff387109</color>
+        <color>ff00ff00</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -52,7 +52,7 @@
     </Style>
     <Style id="icon-1899-0F9D58-labelson">
       <IconStyle>
-        <color>ff589d0f</color>
+        <color>ffff6600</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -62,7 +62,7 @@
     </Style>
     <Style id="icon-1899-1A237E-labelson">
       <IconStyle>
-        <color>ff7e231a</color>
+        <color>ffffd700</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -72,7 +72,7 @@
     </Style>
     <Style id="icon-1899-4E342E-labelson">
       <IconStyle>
-        <color>ff2e344e</color>
+        <color>ffff0066</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -82,7 +82,7 @@
     </Style>
     <Style id="icon-1899-673AB7-labelson">
       <IconStyle>
-        <color>ffb73a67</color>
+        <color>ffff00ff</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -92,7 +92,7 @@
     </Style>
     <Style id="icon-1899-7CB342-labelson">
       <IconStyle>
-        <color>ff42b37c</color>
+        <color>ffcd66ff</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -102,7 +102,7 @@
     </Style>
     <Style id="icon-1899-817717-labelson">
       <IconStyle>
-        <color>ff177781</color>
+        <color>ff7280fa</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -112,7 +112,7 @@
     </Style>
     <Style id="icon-1899-9C27B0-labelson">
       <IconStyle>
-        <color>ffb0279c</color>
+        <color>ffd7ff00</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -122,7 +122,7 @@
     </Style>
     <Style id="icon-1899-C2185B-labelson">
       <IconStyle>
-        <color>ff5b18c2</color>
+        <color>ff40ff40</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -132,7 +132,7 @@
     </Style>
     <Style id="icon-1899-F57C00-labelson">
       <IconStyle>
-        <color>ff007cf5</color>
+        <color>ffff6666</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -142,7 +142,7 @@
     </Style>
     <Style id="icon-1899-F9A825-labelson">
       <IconStyle>
-        <color>ff25a8f9</color>
+        <color>ffee82ee</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -152,7 +152,7 @@
     </Style>
     <Style id="icon-1899-FFEA00-labelson">
       <IconStyle>
-        <color>ff00eaff</color>
+        <color>ffff0000</color>
         <scale>1</scale>
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
