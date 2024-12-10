@@ -127,7 +127,7 @@
         <color>ff40ff40</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/orange-dot.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -137,7 +137,7 @@
         <color>ffff6666</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/orange-pushpin.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -147,7 +147,7 @@
         <color>ffee82ee</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/ltblue-dot.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -157,7 +157,7 @@
         <color>ffff0000</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/ltblue-pushpin.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
