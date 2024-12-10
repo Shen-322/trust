@@ -28,7 +28,7 @@
         <color>ff00ffff</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/blue-dot.png</href>
         </Icon>
       </IconStyle>
     </Style>
@@ -37,7 +37,7 @@
         <color>ff00ff66</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/blue-pushpin.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -47,7 +47,7 @@
         <color>ff00ff00</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -57,7 +57,7 @@
         <color>ffff6600</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/green-pushpin.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -67,7 +67,7 @@
         <color>ffffd700</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -77,7 +77,7 @@
         <color>ffff0066</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/yellow-pushpin.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -87,7 +87,7 @@
         <color>ffff00ff</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/purple-dot.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -97,7 +97,7 @@
         <color>ffcd66ff</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/purple-pushpin.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -107,7 +107,7 @@
         <color>ff7280fa</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/pink-dot.png</href>
         </Icon>
 	<colorMode>normal</colorMode>
       </IconStyle>
@@ -117,7 +117,7 @@
         <color>ffd7ff00</color>
         <scale>1</scale>
         <Icon>
-          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+          <href>http://maps.google.com/mapfiles/ms/icons/pink-pushpin.png</href>
         </Icon>
  	<colorMode>normal</colorMode>
       </IconStyle>
