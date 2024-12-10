@@ -10,6 +10,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1498-757575-labelson">
@@ -19,6 +20,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1603-0F9D58-labelson">
@@ -37,7 +39,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-097138-labelson">
@@ -47,7 +49,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-0F9D58-labelson">
@@ -57,7 +59,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-1A237E-labelson">
@@ -67,7 +69,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-4E342E-labelson">
@@ -77,7 +79,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-673AB7-labelson">
@@ -87,7 +89,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-7CB342-labelson">
@@ -97,7 +99,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-817717-labelson">
@@ -107,7 +109,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-9C27B0-labelson">
@@ -117,7 +119,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+ 	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-C2185B-labelson">
@@ -127,7 +129,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-F57C00-labelson">
@@ -137,7 +139,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-F9A825-labelson">
@@ -147,7 +149,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Style id="icon-1899-FFEA00-labelson">
@@ -157,7 +159,7 @@
         <Icon>
           <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
         </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+	<colorMode>normal</colorMode>
       </IconStyle>
     </Style>
     <Folder>
